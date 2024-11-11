@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 강의 안내
 
 You can use the [editor on GitHub](https://github.com/JungMina/jungmina.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
