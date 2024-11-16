@@ -21,8 +21,7 @@
 5,8호선 천호역 5번출구  
 자차로 오시는 분들은 천호역 공영주차장을 이용하세요.  
 
-네이버지도:  
-https://m.place.naver.com/place/35977146/home?entry=pll  
+#### [스터디카페 지도](https://m.place.naver.com/place/35977146/home?entry=pll){:target="_blank"}
   
 ### 준비물
 노트북(아답터포함) 지참
@@ -41,7 +40,7 @@ https://m.place.naver.com/place/35977146/home?entry=pll
 한분만 신청하시면 ...
 
 
-## [신청하기](https://forms.gle/ERRM4jKYxCDPqN3t8)
+### [신청하기](https://forms.gle/ERRM4jKYxCDPqN3t8){:target="_blank"}
 
 You can use the [editor on GitHub](https://github.com/JungMina/jungmina.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
