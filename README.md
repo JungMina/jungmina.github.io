@@ -2,8 +2,8 @@
 *{font-size:110%;}
 </style>  
   
-안녕하세요. sql 전문가 정미나 입니다.  
-천호역 로데오거리에서 매주 토요일 일요일 한타임씩 그룹 강의를 진행합니다.  
+안녕하세요. SQL 전문가 정미나 입니다.  
+천호역 로데오거리에서 매주 토요일 일요일 한타임씩 그룹 과외를 진행합니다.  
   
 ### 커리큘럼
 디비  
@@ -11,7 +11,8 @@
 ### 강의 시간  
 토요일 오후 4시~6시 2시간  
 일요일 오후 4시~6시 2시간  
-  
+
+### 강의료
 강의료 6만원  
 최대인원 1인~5인  
   
@@ -20,6 +21,7 @@
 5,8호선 천호역 5번출구  
 자차로 오시는 분들은 천호역 공영주차장을 이용하세요.  
 
+네이버지도:  
 https://m.place.naver.com/place/35977146/home?entry=pll  
   
 ### 준비물
@@ -37,6 +39,9 @@ https://m.place.naver.com/place/35977146/home?entry=pll
 5명 초과 할 경우 문자로 취소통보해드립니다.
 다른 날짜로 신청해주세요.
 한분만 신청하시면 ...
+
+
+## [신청하기](https://forms.gle/ERRM4jKYxCDPqN3t8)
 
 You can use the [editor on GitHub](https://github.com/JungMina/jungmina.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
