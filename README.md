@@ -23,7 +23,9 @@
 
 ### [GitHub](https://github.com){:target="_blank"}
 
-### <a href="https://m.place.naver.com/place/35977146/home?entry=pll" target="_blank">스터디카페 지도</a>
+### <a href="[https://m.place.naver.com/place/35977146/home?entry=pll](https://m.place.naver.com/place/1054651487/location?filter=location&selected_place_id=1054651487)" target="_blank">지도: 스터디카페</a>
+
+### <a href="https://m.place.naver.com/place/35977146/home?entry=pll" target="_blank">지도: 천호역 공영 주차장</a>
   
 ### 준비물
 노트북(아답터포함) 지참
