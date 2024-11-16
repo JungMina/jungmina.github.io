@@ -23,7 +23,7 @@
 
 ### [GitHub](https://github.com){:target="_blank"}
 
-### <a href="[https://www.google.com/](https://m.place.naver.com/place/35977146/home?entry=pll)" target="_blank">스터디카페 지도</a>
+### <a href="https://m.place.naver.com/place/35977146/home?entry=pll" target="_blank">스터디카페 지도</a>
   
 ### 준비물
 노트북(아답터포함) 지참
