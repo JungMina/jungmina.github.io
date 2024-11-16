@@ -21,6 +21,8 @@
 5,8호선 천호역 5번출구  
 자차로 오시는 분들은 천호역 공영주차장을 이용하세요.  
 
+### [GitHub](https://github.com){:target="_blank"}
+
 ### <a href="[https://www.google.com/](https://m.place.naver.com/place/35977146/home?entry=pll)" target="_blank">스터디카페 지도</a>
   
 ### 준비물
