@@ -1,5 +1,5 @@
 <style>
-
+*{font-size:110%}
 </style>
 
 ## SQL그룹과외
