@@ -9,6 +9,7 @@
 참여를 원하시는분은 상세요강을 확인하시고,  
 신청서를 작성해주세요.  
   
+  
 ### 커리큘럼
 디비  
   
@@ -36,20 +37,25 @@
 https://m.place.naver.com/place/35977146/home?entry=pll  
 자차로 오시는 분들은 천호역 공영주차장 이용하세요. 
   
-
   
-
+### 예약
 신청서 작성하시면 확인 후 문자 보내드립니다.
 강의료 입금하시면 예약 확정됩니다.
-
-환불기준
+  
+  
+### 환불기준
 24시간 전에 요청, 100% 6만원 환불
 24시간 이후 ~ 12시간 전에 요청, 50% 3만원 환불
 이후 0원 환불
-
+  
+  
+### 취소
 5명 초과 할 경우 문자로 취소통보해드립니다.
 다른 날짜로 신청해주세요.
 한분만 신청하시면 ...
+
+
+
 
 You can use the [editor on GitHub](https://github.com/JungMina/jungmina.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
