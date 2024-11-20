@@ -1,31 +1,27 @@
-<style>
-*{font-size:110%;}
-</style>  
+## SQL그룹과외
   
-안녕하세요. SQL 전문가 정미나 입니다.  
-천호역 로데오거리에서 매주 토요일 일요일 한타임씩 그룹 과외를 진행합니다.  
+안녕하세요. sql 전문가 정미나 입니다.  
+천호역 스터디카페에서 매주 주말마다 그룹 과외를 진행합니다.  
+참여를 원하시는분은 상세요강을 확인하시고,  
+신청서를 작성해주세요.  
   
 ### 커리큘럼
 디비  
 
-### 강의 시간  
-토요일 오후 4시~6시 2시간  
-일요일 오후 4시~6시 2시간  
-
-### 강의료
+### 시간  
+> 토요일 오후 4시\~6시 2시간  
+> 일요일 오후 4시\~6시 2시간  
+  
+### 수강료
 강의료 6만원  
 최대인원 1인~5인  
   
 천호역 랭스터디까페 (예약이 꽉찾을경우 다른 스터디까페로 변경될 수 있습니다)  
   
 5,8호선 천호역 5번출구  
-자차로 오시는 분들은 천호역 공영주차장을 이용하세요.  
+자차로 오시는 분들은 천호역 공영주차장 이용하세요.  
 
-### [GitHub](https://github.com){:target="_blank"}
-
-### <a href="[https://m.place.naver.com/place/35977146/home?entry=pll](https://m.place.naver.com/place/1054651487/location?filter=location&selected_place_id=1054651487)" target="_blank">지도: 스터디카페</a>
-
-### <a href="https://m.place.naver.com/place/35977146/home?entry=pll" target="_blank">지도: 천호역 공영 주차장</a>
+https://m.place.naver.com/place/35977146/home?entry=pll  
   
 ### 준비물
 노트북(아답터포함) 지참
@@ -42,9 +38,6 @@
 5명 초과 할 경우 문자로 취소통보해드립니다.
 다른 날짜로 신청해주세요.
 한분만 신청하시면 ...
-
-
-### [신청하기](https://forms.gle/ERRM4jKYxCDPqN3t8){:target="_blank"}
 
 You can use the [editor on GitHub](https://github.com/JungMina/jungmina.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
