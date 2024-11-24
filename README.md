@@ -10,7 +10,7 @@
 신청서를 작성해주세요.  
   
 
-## 신청하기
+## [신청하기](https://forms.gle/AwyjWZMCksTqTCbi8)
 
   
 ### 커리큘럼
@@ -23,8 +23,8 @@
   
 
 ### 시간  
-> 토요일 오후 4시\~6시 2시간  
-> 일요일 오후 4시\~6시 2시간  
+토요일 오후 4시\~6시 2시간  
+일요일 오후 4시\~6시 2시간  
   
  
 
@@ -57,7 +57,7 @@ https://m.place.naver.com/place/35977146/home?entry=pll
 한분만 신청하시면 ...
 
 
-## 신청하기  
+## [신청하기](https://forms.gle/AwyjWZMCksTqTCbi8)
 
 
 
