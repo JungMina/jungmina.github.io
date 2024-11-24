@@ -10,7 +10,7 @@
 신청서를 작성해주세요.  
   
 
-## [신청하기](https://forms.gle/AwyjWZMCksTqTCbi8)
+#### [신청하기](https://forms.gle/AwyjWZMCksTqTCbi8)
 
   
 ### 커리큘럼
@@ -57,7 +57,7 @@ https://m.place.naver.com/place/35977146/home?entry=pll
 한분만 신청하시면 ...
 
 
-## [신청하기](https://forms.gle/AwyjWZMCksTqTCbi8)
+#### [신청하기](https://forms.gle/AwyjWZMCksTqTCbi8)
 
 
 
