@@ -21,6 +21,7 @@
 노트북(아답터포함) 지참  
 프로그램 다운로드/설치: 디비버, sql developer, oracle express engine  
   
+ㅇㅁㅁㅁ
 
 ### 시간  
 토요일 오후 4시\~6시 2시간  
