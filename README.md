@@ -54,4 +54,4 @@ SQL 초보자를 위한 입문 교육
 
 #### [신청하기](https://forms.gle/AwyjWZMCksTqTCbi8){: target="_blank"}
 
-#### [jungmina.com@gmail.com](jungmina.com@gmail.com){: target="_blank"}
+#### [jungmina.com@gmail.com]
